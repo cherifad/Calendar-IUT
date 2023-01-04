@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "Jour": "Mardi",
+            "Moment": "Midi",
+            "Plats": [
+                "Entrées : ",
+                "",
+                "Salade de riz",
+                "Carottes rapées",
+                "Oeufs",
+                "Slade verte",
+                "",
+                "Plat :",
+                "",
+                "Cuisse de poulet",
+                "VG champignons/tomates",
+                "Haricots beurre",
+                "Fusilli",
+                "",
+                "Dessert : ",
+                "",
+                "Cookies",
+                "Fromage",
+                "Fruits"
+            ],
+            "Type": "self traditionnel",
+            "date": "2022-09-13"
+        },
+        {
+            "Jour": "Mardi",
+            "Moment": "Midi",
+            "Plats": [
+                "Fusilli poulet curry"
+            ],
+            "Type": "Self Pâtes",
+            "date": "2022-09-13"
+        },
+        {
+            "Jour": "Mercredi",
+            "Moment": "Midi",
+            "Plats": [
+                "Entrées : ",
+                "",
+                "Salade pele mele",
+                "Pâté de campagne",
+                "Oeufs",
+                "Slade verte",
+                "",
+                "Plat :",
+                "",
+                "Tartiflette",
+                "VG tartiflette",
+                "",
+                "Dessert : ",
+                "Tarte aux pommes ",
+                "Yaourt",
+                "Fruits"
+            ],
+            "Type": "self traditionnel",
+            "date": "2022-09-14"
+        },
+        {
+            "Jour": "Mercredi",
+            "Moment": "Midi",
+            "Plats": [
+                "Pipe rigate sauce napolitaine"
+            ],
+            "Type": "Self Pâtes",
+            "date": "2022-09-14"
+        },
+        {
+            "Jour": "Jeudi",
+            "Moment": "Midi",
+            "Plats": [
+                "Entrées : ",
+                "",
+                "Salade Piémontaise",
+                "Blanc de Poireaux",
+                "Oeufs",
+                "Slade verte",
+                "",
+                "Plat :",
+                "",
+                "Rôti de porc",
+                "VG gnocchis pesto épinards",
+                "Brocolis ",
+                "Pomme de terre",
+                "",
+                "Dessert : ",
+                "",
+                "Bavarois framboise",
+                "Fromage",
+                "Fruits"
+            ],
+            "Type": "self traditionnel",
+            "date": "2022-09-15"
+        },
+        {
+            "Jour": "Jeudi",
+            "Moment": "Midi",
+            "Plats": [
+                "Spaghetti Carbonara"
+            ],
+            "Type": "Self Pâtes",
+            "date": "2022-09-15"
+        },
+        {
+            "Jour": "Vendredi",
+            "Moment": "Midi",
+            "Plats": [
+                "Entrées : ",
+                "",
+                "Taboulé à l'italienne",
+                "Houmous au persil",
+                "Oeufs",
+                "Slade verte",
+                "",
+                "Plat :",
+                "",
+                "Pavé de cabillaud",
+                "VG boulettes Haricots rouge",
+                "Duo de courgettes ",
+                "Riz",
+                "",
+                "Dessert : ",
+                "",
+                "Crème mont blanc",
+                "yaourt",
+                "Fruits"
+            ],
+            "Type": "self traditionnel",
+            "date": "2022-09-16"
+        },
+        {
+            "Jour": "Vendredi",
+            "Moment": "Midi",
+            "Plats": [
+                "Penne sauce forestière"
+            ],
+            "Type": "Self Pâtes",
+            "date": "2022-09-16"
+        }
+    ],
+    "info": {
+        "date": "2022-09-13T11:32:00.980637",
+        "name": "RU_d'Annecy_-_Crous_Grenoble_Alpes"
+    }
+}

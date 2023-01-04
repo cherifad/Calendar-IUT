@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345102017535",
+    "firebase_url": "https://edt-iut-289d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "edt-iut-289d7",
+    "storage_bucket": "edt-iut-289d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345102017535:android:0187ddbf0231584ff4bdca",
+        "android_client_info": {
+          "package_name": "com.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345102017535-d8kjpdm1auihv4n86e99e0h0f5lq8m7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzecbwpSCPnfMcNFzyH7KfAWJgJSoIpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345102017535-d8kjpdm1auihv4n86e99e0h0f5lq8m7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

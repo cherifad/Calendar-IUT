@@ -1,0 +1,308 @@
+[
+    {
+        "begin": "2022-09-05T14:30:00+00:00",
+        "description": "\n\n2-INFO-1\nCOUTURIER VINCENT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T16:30:00+00:00",
+        "location": "D251 (11 pl./22)",
+        "name": "R3.03_TD1_uml",
+        "prof": "COUTURIER VINCENT"
+    },
+    {
+        "begin": "2022-09-05T06:00:00+00:00",
+        "description": "\n\n2-INFO-3\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T08:00:00+00:00",
+        "location": "D360 (16 pl./32)",
+        "name": "R3.03_TD3_uml",
+        "prof": "\nCOLIN PASCAL\n"
+    },
+    {
+        "begin": "2022-09-06T11:30:00+00:00",
+        "description": "\n\n2-INFO-3\nDELOULE FRAN\u00c3\u2021OISE\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "4:00:00",
+        "end": "2022-09-06T15:30:00+00:00",
+        "location": "D101 (18 pl./33)",
+        "name": "R3.10_TD3_si_agilit\u00c3\u00a9",
+        "prof": "Inconnu"
+    },
+    {
+        "begin": "2022-09-07T14:00:00+00:00",
+        "description": "\n\n2-INFO-1\nCOUTURIER VINCENT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T16:00:00+00:00",
+        "location": "D361 (16 pl./32)",
+        "name": "R3.03_TD1_uml",
+        "prof": "\nCOUTURIER VINCENT\n"
+    },
+    {
+        "begin": "2022-09-05T06:00:00+00:00",
+        "description": "\n\n2-INFO-1\nDAMAS LUC\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T08:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.01_TD1_web_front",
+        "prof": "\nDAMAS LUC\n"
+    },
+    {
+        "begin": "2022-09-09T08:00:00+00:00",
+        "description": "\n\n2-INFO-3\nMEGER NICOLAS\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T10:00:00+00:00",
+        "location": "D350 (16 pl./30)",
+        "name": "R3.08_TD3_maths",
+        "prof": "\nMEGER NICOLAS\n"
+    },
+    {
+        "begin": "2022-09-05T08:00:00+00:00",
+        "description": "\n\n2-INFO-1\nDAMAS LUC\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T10:00:00+00:00",
+        "location": "D253 (16 pl./30)",
+        "name": "R3.01_TD1_web_front",
+        "prof": "\nDAMAS LUC\n"
+    },
+    {
+        "begin": "2022-09-06T12:00:00+00:00",
+        "description": "\n\n2-INFO-4\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "4:00:00",
+        "end": "2022-09-06T16:00:00+00:00",
+        "location": "A276 (15 pl./30)",
+        "name": "R3.10_TD4_si_agilit\u00c3\u00a9",
+        "prof": "\nCOLIN PASCAL\n"
+    },
+    {
+        "begin": "2022-09-06T14:00:00+00:00",
+        "description": "\n\n2-INFO-1\nGAUDIN THIBAUT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T16:00:00+00:00",
+        "location": "D361 (16 pl./32)",
+        "name": "R3.07_TD1_bd",
+        "prof": "\nGAUDIN THIBAUT\n"
+    },
+    {
+        "begin": "2022-09-07T06:00:00+00:00",
+        "description": "\n\n2-INFO-1\nJAZIRI FAOUZI\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T08:00:00+00:00",
+        "location": "D101 (18 pl./33)",
+        "name": "R3.06_TD1_r\u00c3\u00a9seau",
+        "prof": "\nJAZIRI FAOUZI\n"
+    },
+    {
+        "begin": "2022-09-09T06:00:00+00:00",
+        "description": "\n\n2-INFO-2\nLAISSARD G\u00c3\u2030RARD\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T08:00:00+00:00",
+        "location": "A275 (15pl./30)",
+        "name": "R3.08_TD2_maths",
+        "prof": "Inconnu"
+    },
+    {
+        "begin": "2022-09-09T06:00:00+00:00",
+        "description": "\n\n2-INFO-4\nKOSSAKOWSKI ROMAN\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T08:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.08_TD4_maths",
+        "prof": "\nKOSSAKOWSKI ROMAN\n"
+    },
+    {
+        "begin": "2022-09-09T11:00:00+00:00",
+        "description": "\n\n2-INFO-3\nJAZIRI FAOUZI\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T13:00:00+00:00",
+        "location": "D350 (16 pl./30)",
+        "name": "R3.04_TD3_quali",
+        "prof": "\nJAZIRI FAOUZI\n"
+    },
+    {
+        "begin": "2022-09-07T12:00:00+00:00",
+        "description": "\n\n2-INFO-4\nCOUTURIER VINCENT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T14:00:00+00:00",
+        "location": "D350 (16 pl./30)",
+        "name": "R3.07_TD4_bd",
+        "prof": "\nCOUTURIER VINCENT\n"
+    },
+    {
+        "begin": "2022-09-07T12:00:00+00:00",
+        "description": "\n\n2-INFO-3\nCHANET THOMAS\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T14:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.01_TD3_web_front",
+        "prof": "\nCHANET THOMAS\n"
+    },
+    {
+        "begin": "2022-09-07T14:00:00+00:00",
+        "description": "\n\n2-INFO-3\nCHANET THOMAS\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T16:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.01_TD3_web_front",
+        "prof": "\nCHANET THOMAS\n"
+    },
+    {
+        "begin": "2022-09-06T06:00:00+00:00",
+        "description": "\n\n2-INFO-S3\nGAILLARD YOHANN\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T08:00:00+00:00",
+        "location": "H001 (72pl./120)",
+        "name": "R3.11_CM_droit",
+        "prof": "\nGAILLARD YOHANN\n"
+    },
+    {
+        "begin": "2022-09-07T08:00:00+00:00",
+        "description": "\n\n2-INFO-S3\nCOUTURIER VINCENT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T10:00:00+00:00",
+        "location": "H001 (72pl./120)",
+        "name": "R3.04_CM_quali",
+        "prof": "\nCOUTURIER VINCENT\n"
+    },
+    {
+        "begin": "2022-09-09T06:00:00+00:00",
+        "description": "\n\n2-INFO-3\nTHABUIS PIERRE\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T08:00:00+00:00",
+        "location": "D350 (16 pl./30)",
+        "name": "R3.11_TD3_droit",
+        "prof": "\nTHABUIS PIERRE\n"
+    },
+    {
+        "begin": "2022-09-07T14:00:00+00:00",
+        "description": "\n\n2-INFO-2\nJAZIRI FAOUZI\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T16:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.06_TD2_r\u00c3\u00a9seau",
+        "prof": "\nJAZIRI FAOUZI\n"
+    },
+    {
+        "begin": "2022-09-06T14:00:00+00:00",
+        "description": "\n\n2-INFO-2\nGAILLARD YOHANN\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T16:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.11_TD2_droit",
+        "prof": "\nGAILLARD YOHANN\n"
+    },
+    {
+        "begin": "2022-09-05T12:00:00+00:00",
+        "description": "\n\n2-INFO-4\nMUHL ALEXANDRE\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T14:00:00+00:00",
+        "location": "D253 (16 pl./30)",
+        "name": "R3.01_TD4_web_front",
+        "prof": "\nMUHL ALEXANDRE\n"
+    },
+    {
+        "begin": "2022-09-05T14:00:00+00:00",
+        "description": "\n\n2-INFO-4\nMUHL ALEXANDRE\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T16:00:00+00:00",
+        "location": "D253 (16 pl./30)",
+        "name": "R3.01_TD4_web_front",
+        "prof": "\nMUHL ALEXANDRE\n"
+    },
+    {
+        "begin": "2022-09-09T08:00:00+00:00",
+        "description": "\n\n2-INFO-4\nTHABUIS PIERRE\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T10:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.11_TD4_droit",
+        "prof": "\nTHABUIS PIERRE\n"
+    },
+    {
+        "begin": "2022-09-05T12:00:00+00:00",
+        "description": "\n\n2-INFO-2\nDAMAS LUC\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T14:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.01_TD2_web_front",
+        "prof": "\nDAMAS LUC\n"
+    },
+    {
+        "begin": "2022-09-06T12:00:00+00:00",
+        "description": "\n\n2-INFO-2\nDAMAS LUC\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T14:00:00+00:00",
+        "location": "D250 (15 pl./27)",
+        "name": "R3.01_TD2_web_front",
+        "prof": "\nDAMAS LUC\n"
+    },
+    {
+        "begin": "2022-09-09T06:00:00+00:00",
+        "description": "\n\n2-INFO-1\nCOUTURIER VINCENT\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "4:00:00",
+        "end": "2022-09-09T10:00:00+00:00",
+        "location": "D101 (18 pl./33)",
+        "name": "R3.10_TD1_si_agilit\u00c3\u00a9",
+        "prof": "\nCOUTURIER VINCENT\n"
+    },
+    {
+        "begin": "2022-09-09T11:00:00+00:00",
+        "description": "\n\n2-INFO-1\nTHIRIOUX FRAN\u00c3\u2021OIS\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-09T13:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.08_TD1_maths",
+        "prof": "Inconnu"
+    },
+    {
+        "begin": "2022-09-06T12:00:00+00:00",
+        "description": "\n\n2-INFO-1\nGAILLARD YOHANN\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T14:00:00+00:00",
+        "location": "D361 (16 pl./32)",
+        "name": "R3.11_TD1_droit",
+        "prof": "\nGAILLARD YOHANN\n"
+    },
+    {
+        "begin": "2022-09-05T08:00:00+00:00",
+        "description": "\n\n2-INFO-2\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T10:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.07_TD2_bd",
+        "prof": "\nCOLIN PASCAL\n"
+    },
+    {
+        "begin": "2022-09-08T06:00:00+00:00",
+        "description": "\n\n2-INFO-2\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "4:00:00",
+        "end": "2022-09-08T10:00:00+00:00",
+        "location": "A276 (15 pl./30)",
+        "name": "R3.10_TD2_si_agilit\u00c3\u00a9",
+        "prof": "\nCOLIN PASCAL\n"
+    },
+    {
+        "begin": "2022-09-06T08:00:00+00:00",
+        "description": "\n\n2-INFO-S3\nJAZIRI FAOUZI\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-06T10:00:00+00:00",
+        "location": "H001 (72pl./120)",
+        "name": "R3.06_CM_r\u00c3\u00a9seau",
+        "prof": "\nJAZIRI FAOUZI\n"
+    },
+    {
+        "begin": "2022-09-05T14:00:00+00:00",
+        "description": "\n\n2-INFO-2\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-05T16:00:00+00:00",
+        "location": "D361 (16 pl./32)",
+        "name": "R3.03_TD2_uml",
+        "prof": "\nCOLIN PASCAL\n"
+    },
+    {
+        "begin": "2022-09-07T06:00:00+00:00",
+        "description": "\n\n2-INFO-2\nCOLIN PASCAL\n(Export\u00c3\u00a9 le:05/09/2022 14:52)\n",
+        "duration": "2:00:00",
+        "end": "2022-09-07T08:00:00+00:00",
+        "location": "D252 (16 pl./32)",
+        "name": "R3.03_TD2_uml",
+        "prof": "\nCOLIN PASCAL\n"
+    }
+]
